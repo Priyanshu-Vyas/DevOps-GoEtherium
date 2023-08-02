@@ -34,7 +34,6 @@
 ### Output Screenshots:
 
 ![window](https://github.com/Priyanshu-Vyas/LUGANODES-DevOps-Task6/blob/main/img/window.png)
-![record](https://github.com/Priyanshu-Vyas/LUGANODES-DevOps-Task6/blob/main/img/record.mov)
 
 ### Video Demonstration:
 
