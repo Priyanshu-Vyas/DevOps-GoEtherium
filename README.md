@@ -45,4 +45,5 @@
 ### Video Demonstration:
 
 Demonstration of the build process of the binary via containerization tools.
-[Video Link](https://www.loom.com/share/aee6dbd1fb0d4ab6b86eba42a7950988?sid=f1cda563-e1c8-4314-a51d-73bdd429fafc)
+
+> [Video Link](https://www.loom.com/share/aee6dbd1fb0d4ab6b86eba42a7950988?sid=f1cda563-e1c8-4314-a51d-73bdd429fafc)
