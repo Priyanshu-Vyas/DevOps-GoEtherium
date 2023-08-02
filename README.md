@@ -13,17 +13,25 @@
 ### Documentation:
 
 > The Steps involved are:
+
 > Step1: Install Docker
+
 > Step2: Clone the Go-Ethereum repository
+
 > `git clone https://github.com/ethereum/go-ethereum.git`
+
 > Step3: Create a Docker file
+
 > `
 
 `
 
 > Step4: Build the docker image
+
 > `docker build -t geth-toolchain .`
+
 > Step5: Running Geth inside the container
+
 > `docker run --network host --name geth geth-toolchain`
 
 ### Containerfile
