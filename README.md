@@ -30,6 +30,10 @@
     
 > `docker run --network host --name geth geth-toolchain`
 
+### Container File:
+
+[DockerFile](https://github.com/Priyanshu-Vyas/LUGANODES-DevOps-Task6/blob/main/Dockerfile)
+
 
 ### Output Screenshots:
 
