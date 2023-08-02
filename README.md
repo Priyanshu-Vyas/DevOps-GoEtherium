@@ -34,6 +34,9 @@
 
 [DockerFile](https://github.com/Priyanshu-Vyas/LUGANODES-DevOps-Task6/blob/main/Dockerfile)
 
+### Architecture:
+
+![](https://github.com/Priyanshu-Vyas/LUGANODES-DevOps-Task6/blob/main/img/architecture.png)
 
 ### Output Screenshots:
 
