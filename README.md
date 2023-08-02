@@ -22,10 +22,6 @@
 
 > Step3: Create a Docker file
 
-> `
-
-`
-
 > Step4: Build the docker image
 
 > `docker build -t geth-toolchain .`
