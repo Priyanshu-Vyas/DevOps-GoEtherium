@@ -1,4 +1,4 @@
-# LUGANODES-DevOps-Task6
+# DevOps-GoEtherium
 
 ## Features:
 
